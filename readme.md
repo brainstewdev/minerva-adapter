@@ -1,0 +1,1 @@
+adapter per l'api di IDA pro a ghidra.
